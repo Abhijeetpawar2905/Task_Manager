@@ -1,3 +1,5 @@
+<img width="1892" height="872" alt="task_manager" src="https://github.com/user-attachments/assets/d67195b4-bd5b-44a8-993e-02c9103d0f95" />
+<img width="1917" height="863" alt="dashboard" src="https://github.com/user-attachments/assets/f4ef2568-c85a-4d4e-936c-2d12e2a792cc" />
 # Task Manager
 
 A simple multi-user task manager built with React and Vite.
